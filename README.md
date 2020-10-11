@@ -1,5 +1,5 @@
 # Hacker News ✓
-<img src="https://github.com/prosperevergreen/Hacker-News-iOS/blob/master/Documentation/HackerNews.gif" align="right" width="400" />
+<img src="https://github.com/prosperevergreen/Hacker-News-iOS/blob/main/Documentation/HackerNews.gif" align="right" width="400" />
 
 An app for accessing and viewing the **Hacker News** headlines
 
